@@ -1,1 +1,0 @@
-The Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build A star search algorithm and apply them to Pacman scenarios.
